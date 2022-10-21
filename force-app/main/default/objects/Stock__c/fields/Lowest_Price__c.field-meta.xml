@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lowest_Price__c</fullName>
+    <description>The lowest price this Stock has recorded</description>
+    <externalId>false</externalId>
+    <label>Lowest Price</label>
+    <summarizedField>Stock_Price_Tick__c.Price__c</summarizedField>
+    <summaryForeignKey>Stock_Price_Tick__c.Stock__c</summaryForeignKey>
+    <summaryOperation>min</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>
