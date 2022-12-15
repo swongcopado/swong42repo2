@@ -22,6 +22,7 @@
     "packageAliases": {
         "expensetracker": "0Ho5g000000kA8lCAE",
         "expensetracker@0.1.0-1-main": "04t5g000000hsmPAAQ",
-        "stocktracker": "0Ho5g000000kA8qCAE"
+        "stocktracker": "0Ho5g000000kA8qCAE",
+        "stocktracker@0.1.0-1-main": "04t5g000000hsmUAAQ"
     }
 }
