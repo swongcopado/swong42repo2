@@ -6,6 +6,13 @@
             "package": "expensetracker",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "stocktracker",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "stocktracker",
@@ -14,6 +21,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "expensetracker": "0Ho5g000000kA8lCAE",
-        "expensetracker@0.1.0-1-main": "04t5g000000hsmPAAQ"
+        "expensetracker@0.1.0-1-main": "04t5g000000hsmPAAQ",
+        "stocktracker": "0Ho5g000000kA8qCAE"
     }
 }
