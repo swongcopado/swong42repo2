@@ -13,6 +13,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "expensetracker": "0Ho5g000000kA8lCAE"
+        "expensetracker": "0Ho5g000000kA8lCAE",
+        "expensetracker@0.1.0-1-main": "04t5g000000hsmPAAQ"
     }
 }
